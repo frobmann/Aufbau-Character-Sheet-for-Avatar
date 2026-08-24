@@ -1,6 +1,6 @@
 # 👕 Outfit-System für Fashion Affiliate Marketing
 
-> Dein Avatar ist ein virtuelles Fashion-Model. Er muss beliebige Kleidungsstücke aus Online-Shops tragen können, um Produkte zu präsentieren und Affiliate-Links zu bewerben.
+> Dein Avatar ist ein virtuelles Fashion-Model für Frauen 35–45. Sie trägt Mid-Range-Pieces (50–150€) aus Shops wie COS, Massimo Dutti, Arket und & Other Stories und präsentiert sie in Social-Media-Shorts.
 
 ---
 
@@ -8,34 +8,39 @@
 
 > Statt fester Outfits brauchst du ein **modulares System** — einzelne Kleidungsstücke, die du frei kombinieren und schnell wechseln kannst.
 
-### Kleidungs-Slots
+### Kleidungs-Slots (Damenmode)
 
 ```
 ┌─────────────────────────────────────────┐
 │              KOPF / ACCESSOIRES         │
-│   Hüte · Mützen · Caps · Sonnenbrillen │
+│   Sonnenbrillen · Haarreifen · Hüte ·   │
+│   Tücher · Schals                       │
 ├─────────────────────────────────────────┤
 │              OBERKÖRPER                 │
-│   T-Shirts · Hemden · Hoodies ·         │
-│   Pullover · Jacken · Blazer            │
+│   Blusen · Tops · Strickpullover ·      │
+│   T-Shirts · Rollkragen · Bodys         │
 ├─────────────────────────────────────────┤
 │              LAYER (DARÜBER)            │
-│   Mäntel · Lederjacken · Westen ·       │
-│   Übergangsjacken · Cardigans           │
+│   Blazer · Trenchcoats · Strickjacken · │
+│   Lederjacken · Mäntel · Westen         │
 ├─────────────────────────────────────────┤
 │              UNTERKÖRPER                │
-│   Jeans · Chinos · Jogginghosen ·       │
-│   Shorts · Cargos                       │
+│   Stoffhosen · Jeans · Röcke ·          │
+│   Kleider · Culottes · Leggings         │
 ├─────────────────────────────────────────┤
 │              SCHUHE                     │
-│   Sneaker · Boots · Loafer ·            │
-│   Sandalen · Laufschuhe                 │
+│   Loafer · Pumps · Flats · Sneaker ·    │
+│   Boots · Sandalen · Mules              │
 ├─────────────────────────────────────────┤
 │              ACCESSOIRES                │
-│   Uhren · Ketten · Ringe · Taschen ·    │
-│   Gürtel · Armbänder                    │
+│   Handtaschen · Schmuck · Gürtel ·      │
+│   Schals · Uhren · Sonnenbrillen        │
 └─────────────────────────────────────────┘
 ```
+
+### Zusätzlich: One-Piece-Slot (Kleider & Jumpsuits)
+
+> Kleider und Jumpsuits ersetzen Oberkörper + Unterkörper gleichzeitig. Sehr beliebt bei der Zielgruppe für unkomplizierte "Ein Teil = fertig"-Looks.
 
 ### Workflow: Vom Shop-Produkt zum Avatar-Outfit
 
@@ -103,16 +108,27 @@
 
 > Stelle fertige Outfit-Kombinationen zusammen für wiederkehrende Formate.
 
-### Style-Kategorien
+### Style-Kategorien (Frauen 35–45)
 
 | Kategorie | Beschreibung | Typische Pieces | Content-Anlass |
 |---|---|---|---|
-| **Casual Everyday** | Alltagslook, entspannt | T-Shirt + Jeans + Sneaker | "Was ich heute trage" |
-| **Business Casual** | Smart, aber nicht overdressed | Hemd + Chino + Loafer | "Office-Look unter 100€" |
-| **Streetwear** | Urban, trendy | Hoodie + Cargos + Jordans | "Streetwear Haul" |
-| **Date Night** | Schick, elegant | Blazer + Hemd + dunkle Jeans | "Date-Outfit Ideen" |
-| **Sport / Athleisure** | Sportlich, funktional | Jogger + Funktions-Shirt + Runner | "Gym-to-Street Looks" |
-| **Saisonal** | Jahreszeit-spezifisch | Mäntel, Boots, Sommer-Pieces | "Herbst-Essentials 2026" |
+| **Büro / Smart Casual** | Professionell aber nicht steif | Blazer + Bluse + Stoffhose + Loafer | "Office-Look unter 150€" |
+| **Casual Alltag** | Schick-entspannt, Wochenende | Strickpullover + Jeans + Sneaker | "Samstags-Outfit in 2 Minuten" |
+| **Abendessen / Date** | Elegant ohne overdressed | Seidenbluse + Hose + Pumps | "Von Büro zu Dinner — 1 Outfit" |
+| **Elternabend / Events** | Zusammengestellt, altersgerecht | Midi-Kleid oder Blazer-Kombi | "Event-Looks die immer funktionieren" |
+| **Capsule Wardrobe** | Die 10 Basics, die alles können | Trench + Jeans + Weißes Shirt + etc. | "10 Teile, 30 Outfits" |
+| **Saisonal** | Jahreszeit-spezifisch | Mäntel, Boots, Leinen, Sommerkleider | "Herbst-Essentials 2026" |
+| **Reise / Urlaub** | Vielseitig, knitterfrei | Midi-Rock + Leinenshirt + Sandalen | "Koffer packen: 7 Tage, 5 Pieces" |
+
+### Was die Zielgruppe NICHT will
+
+> Verstehe, was 35-45-Jährige ablehnen — vermeide es im Content:
+
+- ❌ "Anti-Aging"-Framing — niemand will gesagt bekommen, dass sie alt aussieht
+- ❌ Zu junge Trends (Crop Tops, Low-Rise) — wirkt aufgesetzt
+- ❌ "Mutti-Mode"-Klischees — die Zielgruppe will modern sein
+- ❌ Unrealistische Body-Standards — der Avatar hat bewusst natürliche Proportionen
+- ❌ Billige Qualität — lieber weniger Pieces, aber überzeugend
 
 ---
 
@@ -133,8 +149,8 @@
 
 | Element | Beschreibung | Warum? |
 |---|---|---|
-| **Gesicht & Frisur** | Immer gleich — dein Wiedererkennungsmerkmal | Du bist die Marke, nicht die Kleidung |
-| **Fantasy-Accessoire** | Dein Signatur-Ring/Armband (siehe 02-visual-design.md) | Macht dich einzigartig unter Fashion-Creators |
+| **Gesicht & Frisur** | Immer gleich — Wiedererkennungsmerkmal | Sie ist die Marke, nicht die Kleidung |
+| **Ear Cuff** | Goldener Signatur-Ear Cuff (siehe 02-visual-design.md) | Macht sie einzigartig unter Fashion-Creators |
 | **Augen-Shift** | Bernstein-Glow bei Begeisterung | Subtiles Branding-Element |
 | **Haltung & Gestik** | Gleiche selbstbewusst-entspannte Körpersprache | Konsistenz über alle Videos |
 
