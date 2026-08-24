@@ -8,8 +8,8 @@
 
 | Feld | Wert |
 |---|---|
-| **Avatar-Name / Alias** | _[Noch festzulegen — Vorschläge siehe unten]_ |
-| **Spitzname** | _[Optional — z.B. verkürzte Form des Namens]_ |
+| **Avatar-Name / Alias** | **Sol** |
+| **Spitzname** | — (Sol ist schon kurz genug) |
 | **Alter (Erscheinung)** | Mitte/Ende 30 — wirkt zeitlos, gepflegt, modern |
 | **Geschlecht / Pronomen** | Weiblich (sie/ihr) |
 | **Herkunft / Setting** | Real-World mit subtilen Fantasy-Akzenten |
@@ -65,31 +65,41 @@
 | **Styling-Tipps** | "1 Teil, 3 Looks" / "Wie kombiniere ich..." | 20% |
 | **Saisonale Guides** | "Herbst-Essentials" / "Sommergarderobe aufbauen" | 15% |
 
-## Namensvorschläge
+## Name: Sol ☀️
 
-> Wähle einen Namen, der zur Zielgruppe passt — erwachsen, elegant, nahbar.
+> **Sol** — kurz, warm, international, einprägsam. Bedeutet "Sonne" auf Spanisch und Portugiesisch. Passt perfekt zur Warmgold-Palette, zum Bernstein-Augenshift und zur warmen, strahlenden Persönlichkeit des Avatars.
 
-| Vorschlag | Stil | Notizen |
+| Aspekt | Detail |
+|---|---|
+| **Name** | Sol |
+| **Aussprache** | Wie geschrieben — einsilbig, weich |
+| **Bedeutung** | Sonne (Spanisch/Portugiesisch) |
+| **Warum es passt** | Warm, hell, positiv. Verbindet sich mit der Goldpalette. Funktioniert international. Leicht zu merken, leicht zu tippen |
+| **Als Brand** | "Sol Style" / "Style by Sol" / einfach "Sol" |
+
+### Handle-Prüfung
+
+> ⚠️ Prüfe die Verfügbarkeit auf allen Plattformen:
+
+| Plattform | Handle-Vorschläge | Status |
 |---|---|---|
-| **Lena Style** | Nahbar, deutsch | Klingt wie eine echte Person, leicht zu merken |
-| **Ava** | International, zeitlos | Kurz, elegant, funktioniert als Brand |
-| **Mila** | Modern, warm | Sympathisch, Mitte-30-Vibe |
-| **Nora** | Skandinavisch, klar | Passt zum COS/Arket-Ästhetik |
-| **[Eigener Name]** | Persönlich | Basierend auf deinem echten Namen |
-
-> 💡 **Tipp:** Der Name sollte als @Handle auf allen Plattformen verfügbar sein. Prüfe: Instagram, TikTok, YouTube, Linktree.
+| **Instagram** | @sol.style / @styled.by.sol / @solstyle_ | ⬜ Prüfen |
+| **TikTok** | @sol.style / @solstyle | ⬜ Prüfen |
+| **YouTube** | Sol Style / Style by Sol | ⬜ Prüfen |
+| **Linktree** | linktr.ee/solstyle | ⬜ Prüfen |
 
 ## Tagline / Slogan
 
-> Vorschläge — passend zur Zielgruppe:
+> Vorschläge — passend zum Namen "Sol":
 
 | Tagline | Vibe |
 |---|---|
-| "Stil, der zu dir passt." | Persönlich, direkt |
-| "Effortless — mühelos gut angezogen." | Premium, international |
+| **"Stil, der zu dir passt."** | Persönlich, direkt — universell einsetzbar |
+| "Mühelos gut angezogen." | Premium, klar, ohne Fremdwörter |
 | "Dein täglicher Style-Moment." | Routine, zuverlässig |
-| "Mode für Frauen, die wissen, was sie wollen." | Selbstbewusst, empowernd |
 | "Weniger suchen. Besser finden." | Problemlösend, praktisch |
+
+> _[Wähle eine Tagline oder nenne deine eigene]_
 
 ---
 
@@ -101,6 +111,6 @@
 - [x] Kernwerte/Themen definiert
 - [x] Content-Säulen festgelegt
 - [x] Marken & Affiliate-Programme identifiziert
-- [ ] Avatar-Name festgelegt
+- [x] Avatar-Name festgelegt — **Sol**
 - [ ] Tagline gewählt
 - [ ] @Handles auf allen Plattformen geprüft & gesichert
